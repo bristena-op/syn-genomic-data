@@ -1,0 +1,15 @@
+{
+  "nIter": 10,
+  "nTargets": 10,
+  "sizeRawA": 101,
+  "nSynA": 50,
+  "nShadows": 5,
+  "sizeRawT": 100,
+  "sizeSynT": 100,
+  "nSynT": 50,
+  "sizeTargetCraft": 1,
+  "prior": {"IN":  0.5, "OUT":  0.5},
+  "generativeModels": {
+    "GAN":[[8000]]
+  }
+}
