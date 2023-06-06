@@ -1,0 +1,9 @@
+Summary statistics
+    LD analysis
+    Allele frequencies done
+    Wardy-Weinberg equilibrium done
+    Fixation index   done
+Principal Component Analysis  done
+Association Analysis
+Linear Regression
+Gradient Descent optimisation
